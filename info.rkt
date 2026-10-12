@@ -4,7 +4,7 @@
 (define deps '("deinprogramm-signature"
                "simple-tree-text-markup-lib"
                "base" "htdp-lib" "rackunit"))
-(define pkg-desk "Support for Examplar-style testing for HtDP languages")
+(define pkg-desc "Support for Examplar-style testing for HtDP languages")
 (define version "0.1")
 (define license 'MIT)
 (define pkg-authors '("Daniel Patterson <dbp@dbpmail.net>"))
